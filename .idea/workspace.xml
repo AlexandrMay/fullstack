@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8eb81300-7efb-4a82-ad8c-d3a612a2fd36" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/client/src/app/app.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/app/app.component.html" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/client" />
+  </component>
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="ProjectId" id="1e5VhY8IJN1Mixq96C5nr3trsfr" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+    <property name="ts.external.directory.path" value="C:\Users\Oleksandr\WebstormProjects\fullstack\client\node_modules\typescript\lib" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8eb81300-7efb-4a82-ad8c-d3a612a2fd36" name="Default Changelist" comment="" />
+      <created>1593611560428</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1593611560428</updated>
+      <workItem from="1593611564073" duration="76000" />
+      <workItem from="1593611657814" duration="3120000" />
+      <workItem from="1594020957316" duration="14289000" />
+      <workItem from="1594112874695" duration="5538000" />
+      <workItem from="1594300792265" duration="4292000" />
+      <workItem from="1594642795533" duration="4443000" />
+      <workItem from="1594727488007" duration="8482000" />
+      <workItem from="1594815039022" duration="8627000" />
+      <workItem from="1595231880563" duration="1864000" />
+      <workItem from="1595327968582" duration="3187000" />
+      <workItem from="1596023442600" duration="752000" />
+      <workItem from="1596614347972" duration="6246000" />
+      <workItem from="1599028815053" duration="9924000" />
+      <workItem from="1599464823219" duration="6811000" />
+      <workItem from="1599556902783" duration="7666000" />
+      <workItem from="1599639953975" duration="6377000" />
+      <workItem from="1599720984474" duration="13788000" />
+      <workItem from="1599823805034" duration="6733000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/client" />
+    </ignored-roots>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2644" y="323" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1594644392332">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2644" y="323" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1594644392332" />
+    <state x="2685" y="236" key="#com.intellij.ide.util.MemberChooser" timestamp="1599724883628">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2685" y="236" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1599724883628" />
+    <state x="2610" y="267" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1599037248341">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2610" y="267" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1599037248341" />
+    <state x="2381" y="162" key="SettingsEditor" timestamp="1595328585313">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2381" y="162" key="SettingsEditor/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1595328585313" />
+    <state x="2536" y="240" key="run.anything.popup" timestamp="1599729156600">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2536" y="240" key="run.anything.popup/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1599729156600" />
+    <state x="2543" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1594644890860">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2543" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1594644890860" />
+  </component>
+</project>
