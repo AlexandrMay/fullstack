@@ -2,7 +2,26 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8eb81300-7efb-4a82-ad8c-d3a612a2fd36" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/client/src/app/app.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/app/app.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/app/shared/services/positions.service.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/uploads/24092020-092020_012-Screenshot_26.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/uploads/24092020-092106_610-Screenshot_13.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/uploads/24092020-092457_045-Screenshot_36.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/uploads/25092020-115234_441-Screenshot_23.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/app/categories-page/categories-form/categories-form.component.css" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/app/categories-page/categories-form/categories-form.component.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/app/categories-page/categories-form/categories-form.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/app/categories-page/categories-form/categories-form.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/app/categories-page/categories-form/categories-form.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/app/categories-page/categories-form/categories-form.component.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/app/categories-page/categories-form/positions-form/positions-form.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/app/categories-page/categories-form/positions-form/positions-form.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/app/categories-page/categories-form/positions-form/positions-form.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/app/categories-page/categories-form/positions-form/positions-form.component.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/app/shared/classes/material.service.ts" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/app/shared/classes/material.service.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/app/shared/interfaces.ts" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/app/shared/interfaces.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/app/shared/services/categories.service.ts" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/app/shared/services/categories.service.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/controllers/category.js" beforeDir="false" afterPath="$PROJECT_DIR$/controllers/category.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/models/Category.js" beforeDir="false" afterPath="$PROJECT_DIR$/models/Category.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/routes/category.js" beforeDir="false" afterPath="$PROJECT_DIR$/routes/category.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/uploads/14072020-153121_961-Screenshot_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/uploads/14072020-153533_201-Screenshot_1.png" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -10,7 +29,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/client" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="JsFlowSettings">
     <service-enabled>true</service-enabled>
@@ -19,14 +38,18 @@
     <auto-save>true</auto-save>
   </component>
   <component name="ProjectId" id="1e5VhY8IJN1Mixq96C5nr3trsfr" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
@@ -59,7 +82,12 @@
       <workItem from="1599556902783" duration="7666000" />
       <workItem from="1599639953975" duration="6377000" />
       <workItem from="1599720984474" duration="13788000" />
-      <workItem from="1599823805034" duration="6733000" />
+      <workItem from="1599823805034" duration="8148000" />
+      <workItem from="1600065164516" duration="10469000" />
+      <workItem from="1600152222061" duration="1899000" />
+      <workItem from="1600155694646" duration="1262000" />
+      <workItem from="1600927560396" duration="6742000" />
+      <workItem from="1601014033672" duration="8659000" />
     </task>
     <servers />
   </component>
@@ -67,6 +95,7 @@
     <option name="version" value="1" />
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <ignored-roots>
       <path value="$PROJECT_DIR$/client" />
     </ignored-roots>
@@ -76,10 +105,10 @@
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
     <state x="2644" y="323" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1594644392332" />
-    <state x="2685" y="236" key="#com.intellij.ide.util.MemberChooser" timestamp="1599724883628">
+    <state x="2685" y="236" key="#com.intellij.ide.util.MemberChooser" timestamp="1601016246837">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
-    <state x="2685" y="236" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1599724883628" />
+    <state x="2685" y="236" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1601016246837" />
     <state x="2610" y="267" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1599037248341">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
@@ -88,13 +117,17 @@
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
     <state x="2381" y="162" key="SettingsEditor/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1595328585313" />
+    <state x="2472" y="253" key="Vcs.Push.Dialog.v2" timestamp="1599833248887">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2472" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1599833248887" />
     <state x="2536" y="240" key="run.anything.popup" timestamp="1599729156600">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
     <state x="2536" y="240" key="run.anything.popup/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1599729156600" />
-    <state x="2543" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1594644890860">
+    <state x="2543" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1600928559880">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
-    <state x="2543" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1594644890860" />
+    <state x="2543" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1600928559880" />
   </component>
 </project>

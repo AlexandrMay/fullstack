@@ -37,12 +37,13 @@ module.exports.remove = async (request, response) => {
     }
 };
 module.exports.create = async (request, response) => {
-    try {
+
         const category = new Category({
             name: request.body.name,
             user: request.user.id,
-            imageScr: request.file ? request.file.path : ''
+            image: request.file ? request.file.path : ''
         });
+    try {
         await category.save();
         response.status(201).json(category)
     } catch (e) {
@@ -50,14 +51,15 @@ module.exports.create = async (request, response) => {
     }
 };
 module.exports.update = async (request, response) => {
-    const updated = {
-        name: request.body.name
+    let updated = {
+        name: request.body.name,
+        image: ''
     };
-    if (request.file) {
-        updated.imageSrc = request.file.path
+    if (request.file || request.file.path) {
+        updated.image = request.file.path
     }
     try {
-        const category = await Category.findOneAndUpdate(
+        let category = await Category.findOneAndUpdate(
             {_id: request.params.id},
             {$set: updated},
             {new: true}
