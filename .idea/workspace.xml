@@ -2,26 +2,19 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8eb81300-7efb-4a82-ad8c-d3a612a2fd36" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/app/shared/services/positions.service.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/uploads/24092020-092020_012-Screenshot_26.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/uploads/24092020-092106_610-Screenshot_13.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/uploads/24092020-092457_045-Screenshot_36.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/uploads/25092020-115234_441-Screenshot_23.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/app/order-page/order-categories/order-categories.component.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/app/order-page/order-categories/order-categories.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/app/order-page/order-categories/order-categories.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/app/order-page/order-positions/order-positions.component.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/app/order-page/order-positions/order-positions.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/app/order-page/order-positions/order-positions.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/app/order-page/order.service.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/app/categories-page/categories-form/categories-form.component.css" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/app/categories-page/categories-form/categories-form.component.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/app/categories-page/categories-form/categories-form.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/app/categories-page/categories-form/categories-form.component.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/app/categories-page/categories-form/categories-form.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/app/categories-page/categories-form/categories-form.component.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/app/categories-page/categories-form/positions-form/positions-form.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/app/categories-page/categories-form/positions-form/positions-form.component.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/app/categories-page/categories-form/positions-form/positions-form.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/app/categories-page/categories-form/positions-form/positions-form.component.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/app/shared/classes/material.service.ts" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/app/shared/classes/material.service.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/app/app-routing.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/app/app-routing.module.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/app/app.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/app/app.module.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/app/order-page/order-page.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/app/order-page/order-page.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/app/order-page/order-page.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/app/order-page/order-page.component.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/client/src/app/shared/interfaces.ts" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/app/shared/interfaces.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/app/shared/services/categories.service.ts" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/app/shared/services/categories.service.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/controllers/category.js" beforeDir="false" afterPath="$PROJECT_DIR$/controllers/category.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/models/Category.js" beforeDir="false" afterPath="$PROJECT_DIR$/models/Category.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/routes/category.js" beforeDir="false" afterPath="$PROJECT_DIR$/routes/category.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/14072020-153121_961-Screenshot_1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/14072020-153533_201-Screenshot_1.png" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -87,8 +80,31 @@
       <workItem from="1600152222061" duration="1899000" />
       <workItem from="1600155694646" duration="1262000" />
       <workItem from="1600927560396" duration="6742000" />
-      <workItem from="1601014033672" duration="8659000" />
+      <workItem from="1601014033672" duration="13958000" />
+      <workItem from="1601371592162" duration="12452000" />
+      <workItem from="1601447137965" duration="2965000" />
+      <workItem from="1601624558807" duration="2127000" />
+      <workItem from="1602508452355" duration="3298000" />
+      <workItem from="1602591196160" duration="5934000" />
+      <workItem from="1602742256217" duration="1366000" />
+      <workItem from="1603262554875" duration="793000" />
+      <workItem from="1603346559660" duration="1786000" />
+      <workItem from="1603695780507" duration="1515000" />
+      <workItem from="1604301411138" duration="1348000" />
+      <workItem from="1604476355393" duration="7318000" />
+      <workItem from="1605016231238" duration="1761000" />
+      <workItem from="1605018010653" duration="2391000" />
+      <workItem from="1605097251734" duration="601000" />
+      <workItem from="1605698369166" duration="625000" />
     </task>
+    <task id="LOCAL-00001" summary="categories and positions are done">
+      <created>1601027941321</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1601027941321</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -99,35 +115,41 @@
     <ignored-roots>
       <path value="$PROJECT_DIR$/client" />
     </ignored-roots>
+    <MESSAGE value="categories and positions are done" />
+    <option name="LAST_COMMIT_MESSAGE" value="categories and positions are done" />
   </component>
   <component name="WindowStateProjectService">
     <state x="2644" y="323" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1594644392332">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
     <state x="2644" y="323" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1594644392332" />
-    <state x="2685" y="236" key="#com.intellij.ide.util.MemberChooser" timestamp="1601016246837">
+    <state x="2685" y="236" key="#com.intellij.ide.util.MemberChooser" timestamp="1602510618515">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
-    <state x="2685" y="236" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1601016246837" />
+    <state x="2685" y="236" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1602510618515" />
     <state x="2610" y="267" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1599037248341">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
     <state x="2610" y="267" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1599037248341" />
+    <state x="2505" y="114" key="CommitChangelistDialog2" timestamp="1601027940230">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2505" y="114" key="CommitChangelistDialog2/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1601027940230" />
     <state x="2381" y="162" key="SettingsEditor" timestamp="1595328585313">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
     <state x="2381" y="162" key="SettingsEditor/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1595328585313" />
-    <state x="2472" y="253" key="Vcs.Push.Dialog.v2" timestamp="1599833248887">
+    <state x="2472" y="253" key="Vcs.Push.Dialog.v2" timestamp="1601027943157">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
-    <state x="2472" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1599833248887" />
+    <state x="2472" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1601027943157" />
     <state x="2536" y="240" key="run.anything.popup" timestamp="1599729156600">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
     <state x="2536" y="240" key="run.anything.popup/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1599729156600" />
-    <state x="2543" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1600928559880">
+    <state x="2543" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1601625334426">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
-    <state x="2543" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1600928559880" />
+    <state x="2543" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1601625334426" />
   </component>
 </project>
