@@ -22,11 +22,22 @@ export class OrderService {
       this.list.push(orderPosition)
     }
 
-  }
-  remove() {
+    this.computePrice();
 
+  }
+  remove(orderPosition: OrderPosition) {
+    const idx = this.list.findIndex(p => p._id === orderPosition._id)
+    this.list.splice(idx, 1);
+    this.computePrice();
   }
   clear() {
+    this.list = [];
+    this.price = 0;
+  }
 
+  computePrice() {
+    this.price = this.list.reduce((total, item) => {
+      return total += item.quantity * item.cost;
+    }, 0);
   }
 }

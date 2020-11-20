@@ -1,7 +1,7 @@
 import { Component, OnInit } from '@angular/core';
-import {CategoriesService} from "../../shared/services/categories.service";
-import {Observable} from "rxjs";
-import {Category} from "../../shared/interfaces";
+import {CategoriesService} from '../../shared/services/categories.service';
+import {Observable} from 'rxjs';
+import {Category} from '../../shared/interfaces';
 
 @Component({
   selector: 'app-order-categories',
