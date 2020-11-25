@@ -1,4 +1,4 @@
-import { Order } from './../shared/interfaces';
+import { Order, Filter } from './../shared/interfaces';
 import { Subscription } from 'rxjs';
 import { OrdersService } from './../shared/services/orders.service';
 import { IMaterialInstance, MaterialService } from './../shared/classes/material.service';
@@ -23,6 +23,7 @@ export class HistoryPageComponent implements OnInit, OnDestroy, AfterViewInit {
   loading = false;
   reloading = false;
   noMoreOrders = false;
+  filter: Filter = {};
 
   constructor(private ordersService: OrdersService) { }
   ngOnDestroy(): void {
@@ -39,10 +40,10 @@ export class HistoryPageComponent implements OnInit, OnDestroy, AfterViewInit {
   }
 
   private fetch(): void {
-    const params = {
+    const params = Object.assign({}, this.filter, {
       offset: this.offset,
       limit: this.limit
-    };
+    });
     this.oSub = this.ordersService.fetch(params).subscribe(
       orders => {
         this.orders = this.orders.concat(orders);
@@ -59,6 +60,17 @@ export class HistoryPageComponent implements OnInit, OnDestroy, AfterViewInit {
     this.fetch();
   }
 
+  applyFilter(filter: Filter): void {
+    this.orders = [];
+    this.offset = 0;
+    this.reloading = true;
+    this.filter = filter;
+    this.fetch();
+  }
+
+  isFiltered(): boolean {
+    return Object.keys(this.filter).length !== 0;
+  }
 
 
 }
